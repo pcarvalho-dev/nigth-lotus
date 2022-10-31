@@ -2,7 +2,7 @@
   "name": "night-lotus",
   "displayName": "Night Lotus",
   "description": "A simple dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -19,8 +19,8 @@
     ]
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/pcarvalho-dev/nigth-lotus"
+    "type": "git",
+    "url": "https://github.com/pcarvalho-dev/nigth-lotus"
   },
   "publisher": "PabloCarvalho"
 }
