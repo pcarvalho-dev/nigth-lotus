@@ -2,7 +2,7 @@
   "name": "night-lotus",
   "displayName": "Night Lotus",
   "description": "A simple dark theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
   },
