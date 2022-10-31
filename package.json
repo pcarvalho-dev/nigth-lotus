@@ -1,0 +1,22 @@
+{
+  "name": "night-lotus",
+  "displayName": "Night Lotus",
+  "description": "A simple dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Lotus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Lotus-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "PabloCarvalho"
+}
