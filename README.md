@@ -10,4 +10,4 @@ Please evaluate the theme and give your feedback.
 
 **Enjoy!**
 
-<!-- ![alt text](https://github.com/pcarvalho-dev/purple-haze-theme/blob/main/assets/preview.png?raw=true) -->
+![alt text](https://github.com/pcarvalho-dev/night-lotus/blob/main/assets/preview.png?raw=true)
