@@ -9,7 +9,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "assets/icon.jpg",
+  "icon": "assets/icon.png",
   "contributes": {
     "themes": [
       {
